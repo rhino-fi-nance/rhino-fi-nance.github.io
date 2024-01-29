@@ -1,0 +1,5 @@
+User-agent: *
+Disallow: /cgi-bin
+Sitemap: https://rhino-fi-nance.github.io/sitemap.xml
+
+
